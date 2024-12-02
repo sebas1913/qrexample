@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "748152159880",
+    "project_id": "qrexample-3cd3b",
+    "storage_bucket": "qrexample-3cd3b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:748152159880:android:aa8bf64eab20d5f7d5e93d",
+        "android_client_info": {
+          "package_name": "com.qrexample.qrexample"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7zAZwe8xLJVOnN-9RneBjRe4Q0ARHMrA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
